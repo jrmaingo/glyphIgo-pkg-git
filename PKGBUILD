@@ -1,6 +1,6 @@
 # Maintainer: Julian Maingot <sikmir@gmail.com>
 
-_pkgname=python-glyphIgo
+_pkgname=python-glyphigo
 pkgname=${_pkgname}-git
 pkgver=r40.db421b2
 pkgrel=1
